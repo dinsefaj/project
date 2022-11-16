@@ -1,0 +1,50 @@
+
+BODY {margin: 0;
+}
+h1{
+  margin-top: 0;
+}
+.searchBox:hover{
+  box-shadow: 0 0 6px;
+  background-color: Red;
+  color: white;
+}
+
+.top1 {
+
+  text-align: right;
+  transition:0.5s
+}
+.search {
+
+  text-align: center;
+  transition:0.5s
+}
+.search:hover{
+  background-color: Red;
+  color: white;
+}
+.top2:hover{
+
+}
+.top-container {background-color: #E4F9F5;
+  margin: 20px 0 0 0;
+  text-align: center;
+  transition:0.5s
+}
+.top-container:hover{
+  background-color: Red;
+  color: white;
+}
+.middle-container{
+  background-color: violet;
+  margin: 0 0 0 0;
+  height: 100px;
+  font-size: 40px;
+  text-align: center;
+  transition: 0.2s;
+}
+.middle-container:hover{
+  background-color: #3e8e41;
+  color: white;
+}
